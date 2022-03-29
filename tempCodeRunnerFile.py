@@ -1,0 +1,1 @@
+    img = detector.findHands(img)
